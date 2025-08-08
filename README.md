@@ -1,5 +1,5 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+This repository is for practicing the GitHub Flow.
 I want to become proficient in a few programming languages.
 I want to learn game development.
 I want to learn digital art.
